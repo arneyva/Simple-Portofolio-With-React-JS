@@ -1,0 +1,51 @@
+Banner.js{
+import TrackVisibility from "react-on-screen";
+npm install --save react-on-screen
+
+
+import "animate.css";
+npm install animate.css --save
+
+import { ArrowRightCircle } from "react-bootstrap-icons";
+npm install react-bootstrap-icons --save
+}
+
+NavBar.js{
+<Navbar.Brand href="#home">
+          <img src={logo} alt="logo" />
+        </Navbar.Brand>
+}
+
+Skills.js{
+Module not found: Error: Can't resolve 'react-multi-carousel' in 'D:\SOFIA\project_portofolio\src\components'
+npm i react-multi-carousel
+}
+
+**************
+Row = Baris
+COl = Kolom
+Container = bisa digeser ke kanan kiri/horizontal secara responsif
+
+#######
+
+Contact.js{
+export 'Contact' (imported as 'Contact') was not found in './components/Projects' (possible exports: Projects)
+npm install express cors nodemailer
+npm i react-mailchimp-subscribe
+
+
+langkah2 membuat responsif portofolio menggunakan react
+1.Install react js
+-pastikan internet lancar
+- npx create-react-app (nama_folder)
+
+2.Install bootstrap 
+=> intine bootstrap ki framework yang nyediakan template2 seperti misal tombol,kolom,baris dsb
+=> React Bootstrap adalah komponen-komponen Bootstrap yang dikemas dalam bentuk komponen React. Ini memungkinkan Anda untuk menggunakan Bootstrap dalam aplikasi React Anda tanpa harus menulis ulang CSS dan JavaScript
+- npm install react-bootstrap bootstrap (jadi library)
+import 'bootstrap/dist/css/bootstrap.min.css'; (untuk mengimport file css bootsrap)
+
+3.Gunakan fungsi komponen untuk membuat bagian2 web
+
+
+
